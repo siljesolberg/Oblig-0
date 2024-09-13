@@ -1,5 +1,5 @@
 
-# Oblig1
+# Oblig0
 macOS 14.5
 git --version
 git version 2.46.0
